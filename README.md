@@ -1,7 +1,7 @@
 # Precise Time Slot Academic Schedule
 Welcome to the **Academic Schedule Planner** repository! This project provides a sophisticated interface for managing university class schedules with integrated research tasks, designed with a modern dark theme and professional layout.
 
-## Course Work for Lab Report NO #03
+## Course Work for Lab Report NO #02
 - **Green University of Bangladesh**  
 - Course Work Name: Design and implementation of an academic schedule webpage using HTML and CSS  
 - Course Title: Web Programming Lab [CSE 302]  
@@ -45,11 +45,13 @@ To run locally:
 
 ## Screenshots
 - Main Schedule Interface  
-  ![Main Interface](https://github.com/user-attachments/assets/schedule-main.png)
+![image](https://github.com/user-attachments/assets/e34d4f66-6b0e-4899-896c-0af909409537)
+
 - Wireframe View  
-  ![Wireframe](https://github.com/user-attachments/assets/schedule-wireframe.png)
+![image](https://github.com/user-attachments/assets/c0d212fa-8564-4b79-abbb-170684453f72)
+
 - Development Environment  
-  ![VSCode](https://github.com/user-attachments/assets/schedule-dev.png)
+![image](https://github.com/user-attachments/assets/883a7f5d-03cc-4a53-8348-f34d495997b0)
 
 ## Author
 **MD KAWSAR AHMED**  
@@ -58,4 +60,4 @@ Department of CSE
 Green University of Bangladesh
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
