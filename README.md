@@ -24,7 +24,7 @@ Welcome to the **Academic Schedule Planner** repository! This project provides a
 - Modern Design Principles: Glassmorphism, Neumorphism
 
 ## View Live Vercel Deployment
-- https://academic-schedule.vercel.app/ (Placeholder URL)
+- [https://academic-schedule.vercel.app/](https://academic-schedule.vercel.app/)
 
 ## Getting Started
 To run locally:
